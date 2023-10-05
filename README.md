@@ -18,7 +18,7 @@ A brief report on the assgnment for the PhD position: READY: Rethinking Monitori
 * Calculate the the total number of messages transmitted between nodes and the coordinator during different settings.
 * Calculate Mean Absolute Error with different error threshold.   
 * Visualize MAE and message transmission information.
-# Code Structure
+# Functions Description
 - `read_data(file_path)`: Read data from a CSV file, store it in a DataFrame, and **return** column names, total data size, and the columns of the data as a dictionary.  
 - `calculate_diff(columns, column_data)`:  Calculate the count of non-equal values from the last ones in the data and **return** the total message transmission count.  
 - `calculate_ε_far_diff(columns, column_data, epsilon_values)`: Calculate message transmission counts and absolute error values for different error threshold and **return** the messages count and error values as a list.  
