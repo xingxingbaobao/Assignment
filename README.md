@@ -4,7 +4,9 @@ A brief report on the assgnment for the PhD position: READY: Rethinking Monitori
 **2.** 1,455,840  
 **3.** 743,865  
 **4.** **(a)** 73,396; **(b)** 36,305; **(c)** 14,915  
-**5.** **(a)** 0.990; **(b)** 1.906; **(c)** 4.182
+**5.** **(a)** 0.990; **(b)** 1.906; **(c)** 4.182  
+**6.**
+![pic](https://github.com/xingxingbaobao/CPU-Monitor/blob/main/output.png)
 # Structure
 * `cpu - csv.csv`: CSV file containing CPU data.  
 * `Assignment_for_the_PhD_position_Yixing_Zhang.ipynb`: Python script containing the code.
